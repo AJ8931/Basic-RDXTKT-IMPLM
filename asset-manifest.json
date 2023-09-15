@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Basic-RDXTKT-IMPLM/static/css/main.c7e0a828.css",
-    "main.js": "/Basic-RDXTKT-IMPLM/static/js/main.5dca0079.js",
-    "index.html": "/Basic-RDXTKT-IMPLM/index.html",
-    "main.c7e0a828.css.map": "/Basic-RDXTKT-IMPLM/static/css/main.c7e0a828.css.map",
-    "main.5dca0079.js.map": "/Basic-RDXTKT-IMPLM/static/js/main.5dca0079.js.map"
+    "main.css": "/static/css/main.c7e0a828.css",
+    "main.js": "/static/js/main.5dca0079.js",
+    "index.html": "/index.html",
+    "main.c7e0a828.css.map": "/static/css/main.c7e0a828.css.map",
+    "main.5dca0079.js.map": "/static/js/main.5dca0079.js.map"
   },
   "entrypoints": [
     "static/css/main.c7e0a828.css",
